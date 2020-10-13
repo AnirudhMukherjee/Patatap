@@ -1,2 +1,2 @@
 # Patatap
-![Patatap](/screens/img.png?raw=true "Tap")
+![Patatap](/Screens/img.png?raw=true "Tap")
